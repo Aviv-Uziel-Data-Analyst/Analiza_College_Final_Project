@@ -3,7 +3,7 @@
 
   <!-- Header -->
   <h1 style="text-align: center; font-size: 2em; margin-bottom: 0.5em;">
-    פרויקט גמר – Data Analyst בקורס אנליזה
+    פרויקט גמר – Data Analyst
   </h1>
 
 <!-- Subheader -->
