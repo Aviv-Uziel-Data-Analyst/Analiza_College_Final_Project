@@ -6,15 +6,22 @@
     פרויקט גמר – Data Analyst בקורס אנליזה
   </h1>
 
-  <!-- Subheader -->
-  <p style="text-align: center; font-size: 1em; color: #57606a; margin-top: 0; margin-bottom: 2em;">
-    <strong>ציון:</strong> 95 &nbsp;|&nbsp;
-    <strong>קורס:</strong> Data Analyst &nbsp;|&nbsp;
-    <strong>מכללה:</strong>
-    <a href="https://www.analiza.org.il/data-expert" style="color: #0969da; text-decoration: none;">
-      Analiza College
-    </a>
-  </p>
+<!-- Subheader -->
+<p style="text-align: center; font-size: 1em; color: #57606a; margin-top: 0; margin-bottom: 2em;">
+  <strong>ציון:</strong> 95 &nbsp;|&nbsp;
+  <strong>קורס:</strong> Data Analyst &nbsp;|&nbsp;
+  <strong>מכללה:</strong>
+  <a href="https://www.analiza.org.il/data-expert" style="color: #0969da; text-decoration: none;">
+    Analiza College
+  </a>
+</p>
+
+<!-- Tools Used -->
+<p style="text-align: center; font-size: 0.95em; color: #24292e; margin-top: 0; margin-bottom: 2em;">
+  <strong>כלים:</strong>
+  PowerPoint |&nbsp; Word |&nbsp; Tableau |&nbsp; SQL (SSMS)
+</p>
+
 
   <!-- Background Section -->
   <h2 style="font-size: 1.25em; border-bottom: 2px solid #e1e4e8; padding-bottom: 0.25em;">
