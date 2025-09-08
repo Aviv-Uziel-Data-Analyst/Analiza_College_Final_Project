@@ -21,12 +21,12 @@
     רקע הפרויקט
   </h2>
   <p style="margin-top: 0.5em; margin-bottom: 1.5em;">
-    אתה עובד כאנליסט נתונים בחברת <strong>Northwind</strong>, מפיצה סיטונאית המספקת מגוון רחב של מוצרי מזון ומשקאות  
+    אתה עובד כאנליסט נתונים בחברת <strong>Northwind</strong>, חברת הפצה סיטונאית המספקת מגוון רחב של מוצרי מזון ומשקאות  
     לעסקים קמעונאיים, מסעדות וחברות אחרות ברחבי העולם.
   </p>
   <p style="margin-top: 0; margin-bottom: 2em;">
     תפקידך הוא לנתח נתונים מהחנות הדיגיטלית של Northwind כדי לייצר תובנות שיכולות לעזור  
-    לחברה לשפר את רווחיותה. דמיין שאתה מכין את הניתוח עבור דירקטוריון Northwind, שישתמש בממצאים שלך  
+    לחברה לשפר את הרווחיות שלה. דמיין שאתה מכין את הניתוח עבור דירקטוריון Northwind, שישתמש בממצאים שלך  
     כדי לקבל החלטות אסטרטגיות.
   </p>
 
@@ -35,10 +35,10 @@
     מבנה הפרויקט
   </h2>
   <ol style="margin-left: 1em; margin-bottom: 2em;">
-    <li>קובץ מצגת PowerPoint (`Northwind-Presentation.pptx`) להצגת הממצאים ללוח ההנהלה</li>
-    <li>מסמך תכנון (`Planning.docx`) הכולל שאלות המחקר, מטרות ותרשים עבודה טרם הניתוח</li>
-    <li>ניתוח טבלאות (`Tables-Analysis.docx`) – תיאור מבני הטבלאות, מפתחות ראשיים וחיצוניים, וספירת עמודות</li>
-    <li>ספריית Tableau (`Final_Project.twbx`) – חוברת עבודה עם לוחות מחוונים ואנליזות להעמקה</li>
+    <li>קובץ מצגת PowerPoint ("Northwind-Presentation.pptx") להצגת הממצאים להנהלת החברה</li>
+    <li>מסמך תכנון ("Planning.docx") הכולל שאלות המחקר, מטרות ותרשים עבודה טרם הניתוח</li>
+    <li>ניתוח טבלאות ("Tables-Analysis.docx") – תיאור מבני הטבלאות, אופי הנתונים וספירת עמודות</li>
+    <li>ספריית Tableau ("Final_Project.twbx") – קובץ עם דאשבורדים ואנליזות להעמקה</li>
   </ol>
 
 <h2 style="font-size: 1.25em; border-bottom: 2px solid #e1e4e8; padding-bottom: 0.5rem; margin-bottom: 2rem;">
