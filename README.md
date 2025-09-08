@@ -36,7 +36,7 @@
   </h2>
   <ol style="margin-left: 1em; margin-bottom: 2em;">
     <li>קובץ מצגת PowerPoint ("Northwind-Presentation.pptx") להצגת הממצאים להנהלת החברה</li>
-    <li>מסמך תכנון ("Planning.docx") הכולל שאלות המחקר, מטרות ותרשים עבודה טרם הניתוח</li>
+    <li>מסמך תכנון ("Work-Plan.docx") הכולל שאלות המחקר, מטרות ותרשים עבודה טרם הניתוח</li>
     <li>ניתוח טבלאות ("Tables-Analysis.docx") – תיאור מבני הטבלאות, אופי הנתונים וספירת עמודות</li>
     <li>ספריית טבלאו ("Final_Project.twbx") – קובץ עם דאשבורדים ואנליזות להעמקה</li>
   </ol>
