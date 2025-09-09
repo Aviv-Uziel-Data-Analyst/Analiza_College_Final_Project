@@ -49,12 +49,36 @@
   </ol>
 
 <h2 style="font-size: 1.25em; border-bottom: 2px solid #e1e4e8; padding-bottom: 0.5rem; margin-bottom: 2rem;">
-  דוגמאות מהמצגת:
+  מבנה הדאטה:
 </h2>
 <div style="display: flex; flex-direction: column; gap: 2rem; margin-top: 2rem; align-items: center;">
-  <img width="800" alt="Preview" src="https://github.com/user-attachments/assets/02e72861-608a-42ca-a2b6-3d75eb667955" style="max-width: 100%; height: auto; border-radius: 4px;" />
+  <ln></ln>
+  <img width="800" alt="Preview" src="https://github.com/user-attachments/assets/9bd5fc01-ea1e-4512-b196-574364030674" />
+</div>
+  
+<h2 style="font-size: 1.25em; border-bottom: 2px solid #e1e4e8; padding-bottom: 0.5rem; margin-bottom: 2rem;">
+  תובנות עסקיות:
+</h2>
+<ln></ln>
+<div style="display: flex; flex-direction: column; gap: 2rem; margin-top: 2rem; align-items: center;">
   <img width="800" alt="Preview_2" src="https://github.com/user-attachments/assets/70aa8a99-30c7-4248-acc4-558aa5478c2f" style="max-width: 100%; height: auto; border-radius: 4px;" />
-  <img width="800" alt="Preview_3" src="https://github.com/user-attachments/assets/b0822f86-3741-48d4-b9c6-032a14d2262e" style="max-width: 100%; height: auto; border-radius: 4px;" />
+  <img width="800" alt="Preview_7" src="https://github.com/user-attachments/assets/41a196dc-c2ba-4500-85c6-1edf819c413a" style="max-width: 100%; height: auto; border-radius: 4px;" />
+  <img width="800" alt="Preview_8" src="https://github.com/user-attachments/assets/ad88b254-276f-401b-8642-a081a9750274" style="max-width: 100%; height: auto; border-radius: 4px;" />
+  <img width="800" alt="Preview_8" src="https://github.com/user-attachments/assets/1bdf00c9-ca04-4b3d-9141-bedc94132f5a" style="max-width: 100%; height: auto; border-radius: 4px;" />
+  <img width="800" alt="Preview_8" src="https://github.com/user-attachments/assets/5dd2866e-4777-44cf-895d-c5c2eb94a011" style="max-width: 100%; height: auto; border-radius: 4px;" />
+  <img width="800" alt="Preview_8" src="https://github.com/user-attachments/assets/5f70e025-1cf2-4943-b1db-4164cd798eb1" style="max-width: 100%; height: auto; border-radius: 4px;" />
+  <img width="800" alt="Preview_8" src="https://github.com/user-attachments/assets/ceb753f1-a3c5-42b7-8ee6-bc7a66aaf3c7" style="max-width: 100%; height: auto; border-radius: 4px;" />
+  <img width="800" alt="Preview_8" src="https://github.com/user-attachments/assets/1bfe0e5d-1dad-407a-9da2-1d31cc3ec766" style="max-width: 100%; height: auto; border-radius: 4px;" />
+
+  
+</div>
+
+<h2 style="font-size: 1.25em; border-bottom: 2px solid #e1e4e8; padding-bottom: 0.5rem; margin-bottom: 2rem;">
+  המלצות לחברה:
+</h2>
+<div style="display: flex; flex-direction: column; gap: 2rem; margin-top: 2rem; align-items: center;">
+<img width="800" alt="Preview_8" src="https://github.com/user-attachments/assets/bcd4f6cd-1f11-439a-ab4c-a833026cdf22" style="max-width: 100%; height: auto; border-radius: 4px;" />
+<img width="800" alt="Preview_8" src="https://github.com/user-attachments/assets/01d41218-b4b5-42b9-a69e-ae477250f632" style="max-width: 100%; height: auto; border-radius: 4px;" />
 </div>
 
 
