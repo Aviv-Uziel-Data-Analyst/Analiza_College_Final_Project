@@ -110,7 +110,6 @@
   <img width="800" alt="Preview_5" src="https://github.com/user-attachments/assets/5dd2866e-4777-44cf-895d-c5c2eb94a011" style="max-width: 100%; height: auto; border-radius: 4px;" />
   <img width="800" alt="Preview_6" src="https://github.com/user-attachments/assets/5f70e025-1cf2-4943-b1db-4164cd798eb1" style="max-width: 100%; height: auto; border-radius: 4px;" />
   <img width="800" alt="Preview_7" src="https://github.com/user-attachments/assets/ceb753f1-a3c5-42b7-8ee6-bc7a66aaf3c7" style="max-width: 100%; height: auto; border-radius: 4px;" />
-  <img width="800" alt="Preview_8" src="https://github.com/user-attachments/assets/1bfe0e5d-1dad-407a-9da2-1d31cc3ec766" style="max-width: 100%; height: auto; border-radius: 4px;" />
 </div>
 
 <h2 style="font-size: 1.25em; border-bottom: 2px solid #e1e4e8; padding-bottom: 0.5rem; margin-bottom: 2rem;">
