@@ -81,7 +81,7 @@
      – Includes all the code for retrieving the needed data for the project
     </li>
     </li>
-      <li>   (<a href="https://github.com/Aviv-Uziel-Data-Analyst/Analiza_College_Final_Project/edit/main/README.md#--sql-snippets" style="color: #0969da; text-decoration: none;">
+      <li>   (<a href="https://github.com/Aviv-Uziel-Data-Analyst/Analiza_College_Final_Project/blob/main/README.md#--sql-snippets" style="color: #0969da; text-decoration: none;">
     "SQL Snippets"
     </a> ) - <strong> Image previews of the code</strong>
      <br>
