@@ -44,10 +44,27 @@
     Project Structure
   </h2>
   <ol style="margin-left: 1em; margin-bottom: 2em;">
-    <li>PowerPoint presentation file ("Northwind-Presentation.pptx") to present findings to company management</li>
+    <li> Database shape, connection and preperation (<a href="https://github.com/Aviv-Uziel-Data-Analyst/Analiza_College_Final_Project/tree/main#--data-structure" style="color: #0969da; text-decoration: none;">
+    "Data Structure"
+    </a>
+     ) – presents the overall shape of our data and how we connected the different sources togther (11 different databases)
+    </li>
+     <li> Table analysis document (<a href="Tables Analysis.docx" style="color: #0969da; text-decoration: none;">
+    "Tables Analysis.docx"
+    </a>
+     ) – Analyzing EACH of the 11 databases - unique ID, foreign ID, n. of columns, and table purpose
+    </li>
     <li>Planning document ("Work-Plan.docx") including research questions, objectives, and workflow diagram prior to analysis</li>
-    <li>Table analysis ("Tables-Analysis.docx") – description of table structures, data characteristics, and column counts</li>
-    <li>Tableau workbook ("Dashboards.twbx") – file with dashboards and in-depth analyses</li>
+    <li>  Tableau workbook (<a href="https://public.tableau.com/app/profile/aviv.uziel/viz/Northwind_Dashboard_17584630101070/Story1" style="color: #0969da; text-decoration: none;">
+    "Dashboard.twbx"
+    </a>
+     ) – file with dashboards and in-depth analyses
+    </li>
+      <li>  PowerPoint presentation (<a href="https://github.com/Aviv-Uziel-Data-Analyst/Analiza_College_Final_Project#--business-insights" style="color: #0969da; text-decoration: none;">
+    "Presentation.pptx"
+    </a>
+     ) – to present key findings to management
+    </li>
   </ol>
 
 <h2 style="font-size: 1.25em; border-bottom: 2px solid #e1e4e8; padding-bottom: 0.5rem; margin-bottom: 2rem;">
@@ -57,6 +74,7 @@
   <br>
   <img width="800" alt="Preview" src="https://github.com/user-attachments/assets/9bd5fc01-ea1e-4512-b196-574364030674" />
 </div>
+
   
 <h2 style="font-size: 1.25em; border-bottom: 2px solid #e1e4e8; padding-bottom: 0.5rem; margin-bottom: 2rem;">
   Business Insights:
